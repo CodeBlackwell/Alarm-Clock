@@ -1,0 +1,28 @@
+Alarm clock - Soundcloud (?)
+	Toy problems (sound gets louder as time passes)
+	Distracting features (blinky dancer)
+News app - NPR; scraper - headlines (times)
+
+Technology:
+React - Express - MongoDB
+Backbone - Express - MySQL
+
+Framework
+
+React
+Alarm clock
+
+1. HTML
+2. React
+	JSX?
+	Babel--converts JSX to JS
+3. How to set-up in ES5?
+
+Alarm Clock
+Keeps track of real-time
+	Text box where you can enter in the time you want to wake up (displayed as you type)
+	On alarm play a song (chron)
+2 buttons (maybe more?)
+	Set-time (type in the #'s)
+	Start (hold down the button to make time go faster?)
+	Timer
